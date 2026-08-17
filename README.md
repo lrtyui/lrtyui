@@ -1,5 +1,5 @@
-<!-- 顶部横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:7A5AF8&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20LPY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20China&descAlignY=58&descSize=18" alt="header"/>
+<!-- ═══════════ 顶部横幅 ═══════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:7A5AF8&height=220&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20LPY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20China&descAlignY=58&descSize=18" alt="header banner"/>
 
 <!-- 打字动画 -->
 <div align="center">
@@ -12,9 +12,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lrtyui&label=Profile%20Views&color=7A5AF8&style=flat-square" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/lrtyui?label=Followers&style=flat-square&color=70A5FD&labelColor=1a1b27" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/lrtyui?label=Followers&style=flat-square&color=70A5FD&labelColor=1A1B27" alt="followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/lrtyui?affiliations=OWNER&label=Stars&style=flat-square&color=FFD76E&labelColor=1a1b27" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/lrtyui?affiliations=OWNER&label=Stars&style=flat-square&color=FFD76E&labelColor=1A1B27" alt="stars"/>
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,js,python,pytorch,tensorflow,linux&theme=dark&perline=7" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,python,pytorch,tensorflow,linux,bash,git,github,vscode&theme=dark&perline=6" alt="My Skills"/>
   </a>
 </div>
 
@@ -34,9 +34,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lrtyui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=8&locale=en" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lrtyui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=en" alt="GitHub stats"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrtyui&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=8" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrtyui&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs"/>
 </div>
 
 <br/>
@@ -63,5 +63,11 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lrtyui&theme=tokyo-night&hide_border=true&bg_color=0d1117&radius=8&area=true" alt="Activity Graph"/>
 </div>
 
-<!-- 底部横幅 -->
+<br/>
+
+<!-- 结束语 + 底部横幅 -->
+<div align="center">
+  <i>✨ Thanks for stopping by — let's build something beautiful together ✨</i>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5AF8,100:70A5FD&height=140&section=footer" alt="footer"/>
